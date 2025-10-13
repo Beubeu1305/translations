@@ -6868,7 +6868,7 @@
     },
     "new_remove_ads": {
       "english": "Remove ads",
-      "value": "Retirer les publicitaires"
+      "value": "Supprimer les publicités"
     },
     "new_roundof16": {
       "comment": "Used to describe the knockout stage with 16 teams remaining. Often translated as '1/8 finals' or 'eighth-finals' in some languages.",
@@ -6913,7 +6913,7 @@
     "new_sing_up": {
       "comment": "Button that user clicks when finished registering his details and he wants to register/sign up",
       "english": "Sign up",
-      "value": "Enregistrement"
+      "value": "S'inscrire"
     },
     "new_skip": {
       "comment": "Button caption for skipping to the next screen",
@@ -7043,7 +7043,7 @@
     "notifications_add_favorite_desc_ipad": {
       "comment": "Prompt to ask user to add a favorite team or player by clicking a button with \"+\" in it",
       "english": "Tap + to add a favorite team or player",
-      "value": "Touchez + pour ajouter une équipe préférée ou un joueur préféré"
+      "value": "Appuyez sur + pour ajouter une équipe ou un joueur favoris"
     },
     "notifications_add_widget": {
       "comment": "Call to action button for user adding widget to home screen.",
@@ -7244,7 +7244,7 @@
     },
     "notifications_already_a_user": {
       "english": "Already a user?",
-      "value": "Déjà un utilisateur ?"
+      "value": "Déjà utilisateur ?"
     },
     "notifications_app_update_message": {
       "comment": "Short message telling user that app an be updated",
@@ -7259,12 +7259,12 @@
     "notifications_are_you_enjoying_app_variant_1": {
       "comment": "Used for rating dialog",
       "english": "Hi, are you enjoying FotMob?",
-      "value": "Salut, tu aimes FotMob ?"
+      "value": "Bonjour, appréciez-vous FotMob ?"
     },
     "notifications_are_you_enjoying_app_variant_2": {
       "comment": "Used for rating dialog",
       "english": "Hi %@! Do you enjoy using FotMob?",
-      "value": "Salut %@ ! Tu aimes utiliser FotMob ?"
+      "value": "Bonjour %@! Aimez-vous utiliser FotMob ?"
     },
     "notifications_assist_singular": {
       "english": "Assist",
@@ -7525,7 +7525,7 @@
     "notifications_enable_breaking_news": {
       "comment": "User can enable breaking news alerts",
       "english": "Enable breaking news",
-      "value": "Autoriser les infos cruciales"
+      "value": "Activer les dernières infos"
     },
     "notifications_enable_breaking_news_desc": {
       "comment": "User can enable breaking news alerts",
@@ -7540,7 +7540,7 @@
     "notifications_enable_transfer_news": {
       "comment": "User can enable transfer news alerts",
       "english": "Enable transfer news",
-      "value": "Autoriser les infos sur les transferts"
+      "value": "Activer les infos sur les transferts"
     },
     "notifications_enable_transfer_news_desc": {
       "comment": "User can enable transfer news alerts",
@@ -7870,7 +7870,7 @@
     },
     "notifications_injury_115": {
       "english": "Strain injury",
-      "value": "Foulure"
+      "value": "Contusion"
     },
     "notifications_injury_116": {
       "english": "Heel injury",
@@ -7882,7 +7882,7 @@
     },
     "notifications_injury_118": {
       "english": "Medial Collateral Ligament injury",
-      "value": "Blessure au ligament collatéral tibial"
+      "value": "Lésion du ligament collatéral médial"
     },
     "notifications_injury_119": {
       "english": "Mouth injury",
@@ -7906,7 +7906,7 @@
     },
     "notifications_injury_123": {
       "english": "Shin splints injury",
-      "value": "Périostite tibiale"
+      "value": "Blessure au tibia"
     },
     "notifications_injury_124": {
       "english": "Sprained knee injury",
@@ -7914,7 +7914,7 @@
     },
     "notifications_injury_125": {
       "english": "Spinal cord injury",
-      "value": "Lésion médullaire"
+      "value": "Lésion de la moelle épinière"
     },
     "notifications_injury_126": {
       "english": "Bruised ankle",
@@ -7930,7 +7930,7 @@
     },
     "notifications_injury_129": {
       "english": "Nose surgery",
-      "value": "Chirurgie nasale"
+      "value": "Chirurgie du nez"
     },
     "notifications_injury_13": {
       "english": "Broken arm",
@@ -8118,11 +8118,11 @@
     },
     "notifications_injury_76": {
       "english": "Cruciate ligament injury",
-      "value": "Blessure au ligament croisé"
+      "value": "Lésion du ligament croisé"
     },
     "notifications_injury_77": {
       "english": "Rib injury",
-      "value": "Blessure à la côte"
+      "value": "Blessure aux côtes"
     },
     "notifications_injury_78": {
       "english": "Collarbone injury",
@@ -8198,7 +8198,7 @@
     },
     "notifications_injury_95": {
       "english": "Malaria",
-      "value": "Malaria"
+      "value": "Paludisme"
     },
     "notifications_injury_96": {
       "english": "Virus",
@@ -8414,7 +8414,7 @@
     },
     "notifications_network_troubleshooting_help_text_ok_2": {
       "english": "Everything looks ok!\\n\\nStill having an issue? Please provide a detailed description of your issue.",
-      "value": "Tout a l'air d'aller !\\n\\nVous avez toujours un problème ? Veuillez fournir une description détaillée de votre problème."
+      "value": "Tout semble correct !\\n\\nVous avez toujours un problème ? Veuillez fournir une description détaillée de votre problème."
     },
     "notifications_network_troublshooting_test1": {
       "english": "Waiting for push message",
@@ -8434,7 +8434,7 @@
     },
     "notifications_nice_are_you_all_set_or_do_you_want_to_add_transfer_news_league_wide_transfer_alerts_and_more": {
       "english": "Nice! Are you all set or do you want to add league-wide transfer alerts or customize the team transfers?",
-      "value": "Super ! Êtes-vous prêt ou souhaitez vous ajouter des alertes de transfert à l'échelle de la ligue ou personnaliser les transferts d'équipe ?"
+      "value": "Super ! Êtes-vous prêt ou souhaitez vous ajouter des alertes de transfert pour toute la ligue ou personnaliser les transferts d'équipe ?"
     },
     "notifications_night_mode": {
       "comment": "Deprecated",
@@ -8444,11 +8444,11 @@
     "notifications_no_data_available": {
       "comment": "Shown when no data is available",
       "english": "No data available",
-      "value": "Aucunes données disponibles"
+      "value": "Aucune donnée disponible"
     },
     "notifications_no_favorites_added_yet": {
       "english": "No favorites added yet",
-      "value": "Encore aucun favori ajouté"
+      "value": "Aucun favori ajouté pour le moment"
     },
     "notifications_no_variant_1": {
       "comment": "Used for rating dialog",
@@ -8544,7 +8544,7 @@
     "notifications_place_bet": {
       "comment": "A SHORT label saying user can place a bet or bet now. So translate it to \"Bet now\" or \"Place bet\" but keep it short. No longer than 12 chars",
       "english": "Place bet",
-      "value": "Miser"
+      "value": "Placer un pari"
     },
     "notifications_player_assist": {
       "comment": "Messi got an assist.",
@@ -8829,11 +8829,11 @@
     "notifications_show_more": {
       "comment": "Button for loading more data",
       "english": "Show more",
-      "value": "Montrer plus"
+      "value": "Afficher plus"
     },
     "notifications_show_video": {
       "english": "Show video",
-      "value": "Voir vidéo"
+      "value": "Afficher la vidéo"
     },
     "notifications_sign_in": {
       "comment": "Profile page sign in",
@@ -9863,7 +9863,7 @@
     "seo_renews_tomorrow": {
       "comment": "Used to indicate when the subscription will renew tomorrow. We need this string in addition to the plural string \"renews_in\" because many languages don't support the \"one\" instance which is what we need for \"tomorrow\".",
       "english": "Renews tomorrow",
-      "value": "Se renouvelle demain"
+      "value": "Renouvellement demain"
     },
     "seo_restart_now": {
       "comment": "Text for button that will restart the app.",
@@ -9942,7 +9942,7 @@
     "seo_sign_in_to_play": {
       "comment": "Text for the button that opens the sign in dialogue in the predictor game.",
       "english": "Sign in to play",
-      "value": "Connexion pour jouer"
+      "value": "Connectez-vous pour jouer"
     },
     "seo_since_x": {
       "comment": "Subtitle used in membership page to indicate since which *year* they became a lifetime supporter. Like \"Since 2023\".",
@@ -10261,7 +10261,7 @@
     "seo_something_went_wrong_please_try_again": {
       "comment": "Used for failure toest in troubleshooting mail.",
       "english": "Something went wrong. Please try again.",
-      "value": "Quelque chose s'est mal passé. Veuillez réessayer."
+      "value": "Une erreur s'est produite. Veuillez réessayer."
     },
     "seo_source": {
       "comment": "Used in links within AI generated summaries to let the user go to the content source.",
